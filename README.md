@@ -1,0 +1,3 @@
+# MiniPost
+Kind of Micro Blog, Based on ASP.NET Core and Vue JS.
+More Description comming soon...
